@@ -1,4 +1,4 @@
-# 🎓 CodeAlpha - Student Grade Tracker
+# Student Grade Tracker
 
 A simple **console-based Student Grade Tracker** developed in **Java** as part of my **Java Programming **.
 
