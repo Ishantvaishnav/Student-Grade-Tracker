@@ -1,6 +1,6 @@
 # Student Grade Tracker
 
-A simple **console-based Student Grade Tracker** developed in **Java** as part of my ** Java Programming **.
+A simple **console-based Student Grade Tracker** developed in **Java** as part of my **Java Programing**.
 
 The application allows users to enter multiple student names and grades, then automatically generates a summary showing all students along with the average, highest, and lowest scores.
 
